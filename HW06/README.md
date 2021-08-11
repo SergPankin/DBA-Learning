@@ -2,15 +2,15 @@
 - Создать кластер PostgreSQL в докере или на виртуальной машине, запустить сервер и подключить клиента
 
 - Развернуть контейнер с PostgreSQL или установить СУБД на виртуальную машину.
-![Скриншот 1](1 SuccessfullyInstalled.png)
+[Скриншот 1](1SuccessfullyInstalled.png)
 - Запустить сервер.
-![Скриншот 2](2 Cluster is online.png)
-![Скриншот 3](3 Version.png)
+[Скриншот 2](2Cluster-is-online.png)
+[Скриншот 3](3Version.png)
 
 - Создать клиента с подключением к базе данных postgres через командную строку.
-![Скриншот 4](4 User is created.png)
+[Скриншот 4](4User-is-created.png)
 
 - Подключиться к серверу используя pgAdmin или другое аналогичное приложение.
-![Скриншот 5](Error in PGAdmin.png)
+[Скриншот 5](Error-in-PGAdmin.png)
 
 
